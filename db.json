@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "createdAt": 1616164012425,
+      "changedAt": 1616164016425,
+      "tags": ["nature", "sky", "snow"],
+      "imageUrl": "https://images.unsplash.com/photo-1613092869277-6e02af5564aa?auto=format&fit=crop&w=1500&q=80",
+      "title": "Test title",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae quibusdam doloremque a blanditiis pariatur harum placeat. Sequi distinctio quam quasi, ex culpa exercitationem voluptatum itaque amet debitis totam, quod nostrum."
+    },
+    {
+      "id": 2,
+      "createdAt": 1616162016425,
+      "changedAt": 1616164016425,
+      "tags": ["mountain", "snow"],
+      "imageUrl": "https://images.unsplash.com/photo-1508108712903-49b7ef9b1df8?auto=format&fit=crop&w=1500&q=80",
+      "title": "Test title",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae quibusdam doloremque a blanditiis pariatur harum placeat. Sequi distinctio quam quasi, ex culpa exercitationem voluptatum itaque amet debitis totam, quod nostrum."
+    },
+    {
+      "id": 3,
+      "createdAt": 1616124016425,
+      "changedAt": 1616164016425,
+      "tags": ["landscape"],
+      "imageUrl": "https://images.unsplash.com/photo-1616141893496-fbc65370493e?auto=format&fit=crop&w=1500&q=80",
+      "title": "Test title",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae quibusdam doloremque a blanditiis pariatur harum placeat. Sequi distinctio quam quasi, ex culpa exercitationem voluptatum itaque amet debitis totam, quod nostrum."
+    },
+    {
+      "id": 4,
+      "createdAt": 1612164016425,
+      "changedAt": 1616164016425,
+      "tags": ["landscape", "snow"],
+      "imageUrl": "https://images.unsplash.com/photo-1616244013240-227ec9abfefb?auto=format&fit=crop&w=1500&q=80",
+      "title": "Test title",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae quibusdam doloremque a blanditiis pariatur harum placeat. Sequi distinctio quam quasi, ex culpa exercitationem voluptatum itaque amet debitis totam, quod nostrum."
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "nature"
+    },
+    {
+      "id": 2,
+      "name": "sky"
+    },
+    {
+      "id": 3,
+      "name": "snow"
+    },
+    {
+      "id": 4,
+      "name": "landscape"
+    },
+    {
+      "id": 5,
+      "name": "mountain"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "url": "https://images.unsplash.com/photo-1613092869277-6e02af5564aa?auto=format&fit=crop&w=1500&q=80"
+    },
+    {
+      "id": 2,
+      "url": "https://images.unsplash.com/photo-1508108712903-49b7ef9b1df8?auto=format&fit=crop&w=1500&q=80"
+    },
+    {
+      "id": 3,
+      "url": "https://images.unsplash.com/photo-1616141893496-fbc65370493e?auto=format&fit=crop&w=1500&q=80"
+    },
+    {
+      "id": 4,
+      "url": "https://images.unsplash.com/photo-1616244013240-227ec9abfefb?auto=format&fit=crop&w=1500&q=80"
+    },
+    {
+      "id": 5,
+      "url": "https://images.unsplash.com/photo-1610128114197-485d933885c5?auto=format&fit=crop&w=1500&q=80"
+    }
+  ]
+}
