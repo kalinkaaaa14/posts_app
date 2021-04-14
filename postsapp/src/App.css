@@ -1,0 +1,44 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 10vh;
+  background-color: dimgrey;
+  color: white;
+}
+
+.nav-links {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.search-input {
+  width: 200px;
+}
+
+.home-header{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.header-item {
+  margin-left: 20px;
+}
+
+/* AddPost component */
+.add-page{
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.name-input {
+  width: 200px;
+}
+
+.cancel-button {
+  margin-left: 10px;
+}
